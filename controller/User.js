@@ -1,7 +1,7 @@
 const Users = require("../models/User");
 const Bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
-const privateKey = "sdhskdnk";
+const privateKey = "sayasuka";
 // const passwordValidator = require("password-validator");
 // const Schema = new passwordValidator();
 
